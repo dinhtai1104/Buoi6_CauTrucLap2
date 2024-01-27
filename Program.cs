@@ -266,6 +266,7 @@ namespace Buoi6_CauTrucLap2
                 Console.Clear();
             }
             #endregion
+            // Test Commit co su thay doi
             Console.ReadKey();
         }
     }
